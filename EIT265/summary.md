@@ -56,7 +56,7 @@ Circular convolution is just the same as normal convolution with some added step
 Ex.
 {1 2 3 __4__ 5} => {__4__ 5 1 2 3}
 4. Summarize the anti-diagonal as seen below.
-![](Cirularconv.png)
+![](Circularconv.png)
 ## Transfer function, H(z) 
 ![](tree.png)
 The transfer function, or system function, is the most usefull tool in this course. As seen abow the transfer function can easealy be converted to almost all other states. 
