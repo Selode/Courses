@@ -70,6 +70,7 @@ All z-transformations well ever need is predefined in the formula collection pro
 
 ## Poles and zeroes
 "What you can find in strip clubs" - Kabbage
+
 Given the transfere function the poles and zeroes can be found by finding the roots to the denominators and the numerators polynomial.
 The denominators polynomial roots is the functions poles and the functions poles is the denominator polynomials roots. 
 ### pole-zero diagram
